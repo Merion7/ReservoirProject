@@ -20,11 +20,10 @@ A simple reservoir engineering project demonstrating computational modeling, dat
 
    
 ## Results
-1. **Simulated Flow Rate**:
+1. **Simulated Flow Rate**: 17.75 bbl/day  
 2. Run:  
    ```bash  
    $ python reservoir_simulation.py  
-   Simulated Flow Rate: 17.75 bbl/day  
    ```  
 3. **Graph Output**:  
    ![Porosity vs Permeability](https://i.imgur.com/HnETbQ0.png)
