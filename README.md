@@ -24,5 +24,5 @@ A simple reservoir engineering project demonstrating computational modeling, dat
    Simulated Flow Rate: 17.75 bbl/day  
    ```  
 2. **Graph Output**:  
-   ![Porosity vs Permeability](![image](https://github.com/user-attachments/assets/3f95f1b8-a038-4e0b-a2f0-d827625a3d39)
-)  
+   ![Porosity vs Permeability](https://i.imgur.com/HnETbQ0.png)
+   
